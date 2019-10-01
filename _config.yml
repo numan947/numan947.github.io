@@ -20,11 +20,12 @@ description: ""
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "tkinter.pdf"
+  CV: "GradResume.pdf"
   Projects: "projects"
   Experience: "experiences"
   Research: "research"
   Education: "education"
+  Contact: "contact"
 
   
   # Resources:
@@ -74,7 +75,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email1: "mahmudulhasan947@gmail.com"
-  email2: "1305043.sh@cse.buet.ac.bd"
+  email2: "1305043.sh@ugrad.cse.buet.ac.bd"
   # facebook: numan947
   github: numan947
   # twitter: numan947
