@@ -59,4 +59,25 @@ subtitle:
 
 ## Course Required Projects
 
-1. 
+1. **BizziBay**  
+   ***Type: Software***  
+   **Description:**  
+   This is a digital shopping system which can be used to buy and sell products online. Front end is done in **Android SDK** and in simple HTML/CSS/JS while back end runs on **Python Django** framework. This was done as a part of **CSE322: Software Development Sessional** course.  
+
+2. **MediaPlayer**  
+   ***Type: Software***  
+   **Description:**  
+   This a simple mp3 and mp4 player which supports creation and saving playlists. This was built as a project in **CSE202: Object Oriented Programming Sessional** course using **JavaFX**.
+
+3. **Simple Gaming Database**  
+   ***Type: Software***  
+   **Description:**  
+   This is a generic database for two player games like Chess, Go, Checkers, etc. It supports creation of multiple players and arrangement of tournaments. It has a forum which can be used as a communication media for the players. We used **Oracle Database and Java Servlet API** to build the overall system. This was done as requirement in **CSE304: Database Sessional** course.
+
+4. **SpaceInvaders**  
+   ***Type: Software***  
+   A simple 2D game built using **iGraphics** library. It was done as a requirement in **CSE102: Structured Programming Language Sessional** course.
+
+5. **SpaceImpact**  
+   ***Type: Hardware***  
+   A 2D LED matrix game built using **ATMega32**. It was done as a requirement in **CSE316: Microprocessors and Microcontrollers Sessional** course.
