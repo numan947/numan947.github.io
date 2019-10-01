@@ -30,9 +30,9 @@ subtitle:
       + Undergraduate C/C++
       + Undergraduate Java 
       + Undergraduate Android Development
-      + HSC Physics 1st and 2nd Paper
-      + HSC Chemistry 1st and 2nd Paper
-      + HSC Mathematics 1st and 2nd Paper
+      + HSC Physics 
+      + HSC Chemistry
+      + HSC Mathematics
       + SSC Physics
       + SSC Chemistry
       + SSC Mathematics

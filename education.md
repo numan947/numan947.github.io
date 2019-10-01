@@ -39,3 +39,10 @@ subtitle: In Reverse Chronological Order
    Science group,  
    February, 2006 -- May, 2011  
    **GPA:** 5.00/5.00 (5.00 in all subjects)
+
+
+### Awards and Honors
++ Dean’s List, January 2017
++ University Stipend, July 2017
++ Board General Scholarship in HSC (2013)
++ Board Talent Pool Scholarship in SSC (2011)
