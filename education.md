@@ -43,6 +43,5 @@ subtitle: In Reverse Chronological Order
 
 ### Awards and Honors
 + Dean’s List, January 2017
-+ University Stipend, July 2017
++ University Stipend, July 2014
 + Board General Scholarship in HSC (2013)
-+ Board Talent Pool Scholarship in SSC (2011)
