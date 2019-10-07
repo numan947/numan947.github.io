@@ -9,10 +9,8 @@ subtitle:
 I am broadly interested in the following areas including their interdisciplinary applications: 
   + Image Processing and Computer Vision
   + Natural Language Processing
-  + Deep Learning
   + Machine Learning
-  + Reinforcement Learning
-  + Sentiment Analysis
+  + Data Mining
 
 ## Research Projects
 
