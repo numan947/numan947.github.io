@@ -7,11 +7,11 @@ subtitle:
 ## Personal Projects
 
 1. **Re:SSD -  A Replication of Single Shot MultiBox Detector in PyTorch**
-   ***Type: Deep Learning / Computer Vision***
-   **Description:**
-   This is a project that I have done to enrich my knowledge of PyTorch, computer vision and deep learning in general. I replicated the experiments done in the <a href="https://arxiv.org/abs/1512.02325" target="_blank">SSD paper</a> in which I achieved similar average precision and mean average precisions mentioned in the paper.
-   **Github Link:** <a href="https://github.com/numan947/Re-SSD---A-Replication-of-Single-Shot-MultiBox-Detector-in-PyTorch" target="_blank">SSD: PyTorch</a>
-
+   ***Type: Deep Learning / Computer Vision***  
+   **Description:**  
+   This is a project that I have done to enrich my knowledge of PyTorch, computer vision and deep learning in general. I replicated the experiments done in the <a href="https://arxiv.org/abs/1512.02325" target="_blank">SSD paper</a> in which I achieved similar average precision and mean average precisions mentioned in the paper.  
+   **Github Link:** <a href="https://github.com/numan947/Re-SSD---A-Replication-of-Single-Shot-MultiBox-Detector-in-PyTorch" target="_blank">SSD: PyTorch</a>  
+   
 2. **Smile Detection**  
    ***Type: Deep Learning / Machine Learning***    
    **Description:**   
