@@ -13,7 +13,15 @@ subtitle:
 
 
 ## Teaching  
-1. **Lecturer**, February, 2019 -- September, 2019  
+1. **Lecturer**, February, 2020 -- Current  
+   Department of CSE, Eastern University.  
+   **Courses Taught:**  
+      + Discrete Mathematics
+      + Algorithms
+      + Mathematics for Computer Science
+      + Algorithms Sessional
+
+2. **Lecturer**, February, 2019 -- September, 2019  
    Department of CSE, Canadian University of Bangladesh.  
    **Courses Taught:**  
       + Compilers  
@@ -25,7 +33,7 @@ subtitle:
       + Structured Programming Language Sessional
 
     
-2. **Private Tutor**, July, 2014 -- December, 2018  
+3. **Private Tutor**, July, 2014 -- December, 2018  
    **Courses Taught:**  
       + Undergraduate C/C++
       + Undergraduate Java 
