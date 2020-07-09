@@ -8,8 +8,8 @@ subtitle:
 
 I am broadly interested in the following areas including their interdisciplinary applications: 
   + Machine Learning, specifically Deep Learning
+  + Software Engineering
   + Network Security
-  + Natural Language Processing
 
 ## Research Projects
 
