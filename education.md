@@ -18,9 +18,9 @@ subtitle: In Reverse Chronological Order
    _Taken on August 28, 2019_,  
    **Scores**:
      + Total: 328/340
-     + Quantitative: 167/170 (90<sup>th</sup> Percentile)
+     + Quantitative: 167/170 (89<sup>th</sup> Percentile)
      + Verbal: 161/170 (88<sup>th</sup> Percentile)
-     + Analytical Writing: 4.5/6.00 (81<sup>st</sup> Percentile)
+     + Analytical Writing: 4.5/6.00 (80<sup>th</sup> Percentile)
 
 3. **Bangladesh University of Engineering and Technology (BUET)**, Dhaka, Bangladesh.  
    <em>Bachelor of Scinece in Engineering (B.Sc. Engg.),  

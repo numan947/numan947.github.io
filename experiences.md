@@ -20,6 +20,8 @@ subtitle:
       + Algorithms
       + Mathematics for Computer Science
       + Algorithms Sessional
+      + Compilers
+      + Compilers Sessional
 
 2. **Lecturer**, February, 2019 -- September, 2019  
    Department of CSE, Canadian University of Bangladesh.  
@@ -32,7 +34,7 @@ subtitle:
       + Computer Networks Sessional
       + Structured Programming Language Sessional
 
-    
+<!--     
 3. **Private Tutor**, July, 2014 -- December, 2018  
    **Courses Taught:**  
       + Undergraduate C/C++
@@ -44,7 +46,7 @@ subtitle:
       + SSC Physics
       + SSC Chemistry
       + SSC Mathematics
-      + SSC Higher Mathematics  
+      + SSC Higher Mathematics   -->
 
 ## Internship  
 

@@ -7,9 +7,9 @@ subtitle:
 ## Research Interests
 
 I am broadly interested in the following areas including their interdisciplinary applications: 
-  + Machine Learning, specifically Deep Learning
-  + Software Engineering
-  + Network Security
+  + Applied machine learning and deep learning
+  + Network and software security
+  + Software engineering
 
 ## Research Projects
 
@@ -19,8 +19,8 @@ I am broadly interested in the following areas including their interdisciplinary
    This project can help choose better features for future Machine Learning models for disease outbreak detection and prediction. Additionally, it may direct further research to investigate the reasons behind the overt correlations between the variables.
 
 
-## Research Papers
+<!-- ## Research Papers
 
 1. **S. Mahmudul Hasan**, Alabi Mehzabin Anisha, A. B. M. Alim Al Islam, *"Revealing Influences of Socioeconomic Factors Over Disease Outbreaks".*  
    To be submitted. The paper is based on undergraduate thesis.
-   
+    -->

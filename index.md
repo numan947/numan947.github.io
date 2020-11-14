@@ -9,7 +9,7 @@ use-site-title: false
 My name is S. Mahmudul Hasan but I go by my nickname, "Numan". 
 I graduated from <a href="https://en.wikipedia.org/wiki/Bangladesh_University_of_Engineering_and_Technology" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a> in October, 2018.
 
-Usually I spend my free time reading books, watching anime, or cycling. But during prolonged free time, I try either to take MOOCs on recent technologies (usually related to coding) and acquire new skills or to polish my existing skills.
+Usually I spend my free time reading books, coding programming problems, or cycling. But during prolonged free time, I try either to take MOOCs on recent technologies (usually related to coding) and acquire new skills or to polish my existing skills.
 
 <!-- 
 FOLLOWING CODE GENERATES HTML LIST PAGES USING THE POSTS
