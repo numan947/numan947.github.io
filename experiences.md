@@ -5,16 +5,22 @@ subtitle:
 ---
 
 ## Research
-1. **Undergraduate Researcher**, August, 2017 -- October, 2018    
+1. **Graduate Sudent Researcher**, August, 2021 -- Current
+   Department of Electrical Engineering and Computer Science,
+   Syracuse University, Syracuse, New York, USA.  
+   **Projects:**  
+   Working on multiple project encompassing multiple fields including systems, security, IoT, and parsing (<a href="/projects">see projects</a>).
+
+2. **Undergraduate Student Researcher**, August, 2017 -- October, 2018    
    Department of Computer Science and Engineering,  
-   Bangladesh University of Engineering and Technology  
-   **Project:**  
-   Worked on my undergraduate thesis on Biological Data Mining. More specifically, I accumulated data on different diseases' outbreaks around the world and associate them with different socioeconomic factors.
+   Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.  
+   **Projects:**  
+   Worked on my undergraduate thesis on Biological Data Mining. More specifically, I accumulated data on different diseases' outbreaks around the world and associate them with different socioeconomic factors (<a href="/projects">see projects</a>).
 
 
 ## Teaching  
-1. **Lecturer**, February, 2020 -- Current  
-   Department of CSE, Eastern University.  
+1. **Lecturer**, February, 2020 -- Current (on leave)  
+   Department of CSE, Eastern University, Dhaka, Bangladesh.  
    **Courses Taught:**  
       + Discrete Mathematics
       + Algorithms
@@ -23,8 +29,8 @@ subtitle:
       + Compilers
       + Compilers Sessional
 
-2. **Lecturer**, February, 2019 -- September, 2019  
-   Department of CSE, Canadian University of Bangladesh.  
+2. **Lecturer**, February, 2019 -- December, 2019  
+   Department of CSE, Canadian University of Bangladesh, Dhaka, Bangladesh.  
    **Courses Taught:**  
       + Compilers  
       + Theory of Computation

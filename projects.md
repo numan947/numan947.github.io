@@ -1,8 +1,40 @@
 ---
 layout: page
-title: Selected Projects 
+title: Projects
 subtitle:
 ---
+
+
+## Ongoing Research Projects
+
+1. **Android-Wifi-Phase-2**  
+   ***Type: Android Systems / Android UX Design***  
+   **Description:**  
+   This is an ongoing research project on designing a better and more secure UX for connecting to Enterprise Wifi networks.
+
+2. **Context Sensitive Fuzzing**  
+   ***Type: Fuzzing / Software Testing***  
+   **Description:**  
+   This is an ongoing research project on design and implementation of a platform for performing context sensitive fuzzing.
+
+3. **IoT Platform Evaluator**  
+   ***Type: IoT / Evaluation***  
+   **Description:**  
+   This is an ongoing research project on design and implementation of a IoT platform evaluator software.
+
+## Past Research Projects
+
+1. **Data Mining for Revealing Influential Socioeconomic Factors of Disease Outbreaks**  
+   ***Description:***  
+   Disease outbreaks occur all over the world almost every year. In this project, we tried to related the natures of disease outbreaks with different socioeconomic factors of different parts of the world. Specifically, we first accumulated data on disease outbreaks's occurrences (what, when and where), associated socioeconomic factors of that place and time, and the disease's natures. Then we used correlation techniques (Pearson and Spearman) to determine the potential influence of socioeconomic factors on the outbreaks of the diseases with the corresponding natures. We preprocessed and derived correlations of 193 socioeconomic attributes with 185 different characteristics of diseases (and their outbreaks).  
+   This project can help choose better features for future Machine Learning models for disease outbreak detection and prediction. Additionally, it may direct further research to investigate the reasons behind the overt correlations between the variables.
+
+
+## Research Papers
+
+1. **S. Mahmudul Hasan**, Alabi Mehzabin Anisha, A. B. M. Alim Al Islam, *"Revealing Influences of Socioeconomic Factors Over Disease Outbreaks".*  
+   Accepted at ACM COMPASS'22 (<a href="https://dl.acm.org/doi/abs/10.1145/3530190.3534804" target="_blank">Link</a>)
+
 
 ## Personal Projects
 
@@ -32,36 +64,34 @@ subtitle:
    I wanted to try out a **Cross Platform** framework and learn **Flask** as it's known to be very minimalistic. So, I built the system while teaching myself about these technologies. I am currently working with an extension of this idea which can be found <a target="_blank" href="/research">here</a>.  
    **Github Link:** <a href="https://github.com/numan947/ImageDataCollector" target="_blank">ImageDataCollector</a>, <a href="https://github.com/numan947/SimpleFlaskServer" target="_blank">SimpleFlaskServer</a>
 
-5. **Convolutor**  
-   ***Type: Software / Research Tool***  
-   **Description:**  
-   A research tool that can calculate the output sizes of *2D Convolution, 2D Transposed Convolution, Max Pool 2D and Max Unpool 2D* given the required parameters. It is built using **Tkinter** framwork.  
-   While learning **PyTorch**, I felt irritated as I had to calculate the outputs of different CNN and MaxPool layers again and again. So to ease the learning process as well as to learn a python GUI library, I implemented this simple calculator-like program in **Tkinter**.  
-   **Github Link:** <a target="_blank" href="https://github.com/numan947/Convolutor">Convolutor</a>
-
-6. **FileShare**  
+5. **FileShare**  
    ***Type: Software***  
    **Description:**  
    A two part system for file sharing between *Windows, Android and Linux* systems using a common Wifi network. PC's software is done using **JavaFX** while mobile's software is done using **Android SDK**. It was done to acquire a firm grasp on the concepts of **Multi-Threading and Socket Programming**.  
    **Github Link:** <a target="_blank" href="https://github.com/numan947/FileShare">FileShare</a>
 
-7. **BrackFire**  
+6. **BrackFire**  
    ***Type: Software***  
    **Decription:**  
    A fire watch system that can be used to call nearby fire station, alert nearby devices (wit the app) and track the fire service car as it responds to a call.  
    Implemented the back end database using **Firebase API**, the **Tracking System** by using **Google Maps and Firebase API** simultaneously, and the **Push Notification System** using **Firebase Cloud Messaging (FCM)** API.  
    It was built as part of a freelance software development, and to get myself introduced to the aforementioned technologies.
 
-
-8. **BasicProgressTracker**  
+<!-- 5. **Convolutor**  
+   ***Type: Software / Research Tool***  
+   **Description:**  
+   A research tool that can calculate the output sizes of *2D Convolution, 2D Transposed Convolution, Max Pool 2D and Max Unpool 2D* given the required parameters. It is built using **Tkinter** framwork.  
+   While learning **PyTorch**, I felt irritated as I had to calculate the outputs of different CNN and MaxPool layers again and again. So to ease the learning process as well as to learn a python GUI library, I implemented this simple calculator-like program in **Tkinter**.  
+   **Github Link:** <a target="_blank" href="https://github.com/numan947/Convolutor">Convolutor</a> -->
+<!-- 8. **BasicProgressTracker**  
    ***Type: Software***  
    **Description:**  
    A simple android application for managing personal time between different tasks. It was developed as a part of **teaching android development** to some of my students.  
-   **Github Link:** <a target="_blank" href="https://github.com/numan947/BasicProgressTracker">BasicProgressTracker</a>
+   **Github Link:** <a target="_blank" href="https://github.com/numan947/BasicProgressTracker">BasicProgressTracker</a> -->
 
 
 
-## Course Required Projects
+## Coursework Projects
 
 1. **BizziBay**  
    ***Type: Software***  

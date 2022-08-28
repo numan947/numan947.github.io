@@ -4,8 +4,7 @@ title: Contact
 subtitle:
 ---
 
-- Email 1: 1305043.sh [at] ugrad.cse.buet.ac.bd
+- Email 1: shasan [at] syr.edu
 - Email 2: mahmudulhasan947 [at] gmail.com
-- Email 3: mahmudulhasan.cse [at] easternuni.edu.bd
-- Cell Phone: (+880)1760822760
-- Address: Dhaka, Bangladesh.
+- Cell: (+1) [315]412-4385
+- Address: Syracuse, NY.

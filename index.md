@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Hello, I'm Numan
-subtitle: B.Sc. Engg.|CSE|BUET
+title: S Mahmudul Hasan
 use-site-title: false
 ---
 
 
-My name is S. Mahmudul Hasan but I go by my nickname, "Numan". 
-I graduated from <a href="https://en.wikipedia.org/wiki/Bangladesh_University_of_Engineering_and_Technology" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a> in October, 2018.
-
-Usually I spend my free time reading books, coding programming problems, or cycling. But during prolonged free time, I try either to take MOOCs on recent technologies (usually related to coding) and acquire new skills or to polish my existing skills.
+Hi, I am S Mahmudul Hasan, a second year Ph.D. student at Syracuse University working with <a href="https://endadul.github.io/" target="_blank">Prof. Endadul Hoque</a>. I received my B.Sc. in Computer Science from <a href="https://en.wikipedia.org/wiki/Bangladesh_University_of_Engineering_and_Technology" target="_blank">Bangladesh University of Engineering and Technology (BUET)</a> in October, 2018. Before starting my Ph.D. journey, I served as a Lecturer at the Department of CSE at Eastern University, Dhaka, Bangladesh.
 
 <!-- 
 FOLLOWING CODE GENERATES HTML LIST PAGES USING THE POSTS
